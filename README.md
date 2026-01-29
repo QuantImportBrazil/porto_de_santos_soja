@@ -9,9 +9,11 @@
 
 ---
 
-## Análise ao longo do ano
+## Análise ao longo do ano  
 ![](images/overview.png)  
-O tamanho da marca "x verde" é proporcional a probabilidade da instância ocorrer.  
+* O tamanho da marca "x verde" é proporcional a probabilidade da instância ocorrer.  
+* Os testes foram feitos sobre os últimos 15 anos.
+
 
 ---
 
@@ -34,10 +36,7 @@ O tamanho da marca "x verde" é proporcional a probabilidade da instância ocorr
 
 ## Principais fatores (ML)
 
-![](tables/fatores_ml1.png)
-
-
-
+![](tables/fatores_ml.png)
 
 
 ---
